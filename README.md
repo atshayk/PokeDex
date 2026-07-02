@@ -51,7 +51,7 @@ The app strictly adheres to **MAD (Modern Android Development)** architectural p
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/atshayk/Pokedex.git](https://github.com/atshayk/Pokedex.git)
+   git clone https://github.com/atshayk/Pokedex.git
    ```
 3. Open the project in Android Studio.
 4. Obtain a Google Maps API Key from the Google Cloud Console and add it to your local configuration (local.properties or manifest).
