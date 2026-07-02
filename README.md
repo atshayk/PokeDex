@@ -1,4 +1,4 @@
-# Pokedex 📱
+# PokeDex 📱
 
 A modern, native Android application built with **Kotlin** to showcase clean architecture, declarative UI, and modern Android development best practices. 
 
